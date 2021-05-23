@@ -1,5 +1,5 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm [Omar](https://gloomygly.netlify.app/) I am 14 years old. I am from Palestine but live in Norway at the moment. I enjoy playing video games. 
+I'm [Omar](https://gloomygly.netlify.app/) a passionate, self-taught front End web developer from Palestine.
 
 **Talking about Personal Stuffs:**
 
