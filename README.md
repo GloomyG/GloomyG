@@ -14,11 +14,10 @@ Hi, I'm [Omar](https://gloomygly.netlify.app/) I am 14 years old. I am from Pale
 <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-512.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 My Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gloomyg&show_icons=true&theme=gotham" alt="gloomyg" />
 
