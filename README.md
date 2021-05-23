@@ -27,7 +27,7 @@ I'm [Omar](https://gloomygly.netlify.app/) a passionate, self-taught front End w
 ㅤ
 ㅤ
 
-<img align="center" src="github-readme-stats-puce-theta.vercel.app/api?username=gloomyg&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-<img align="center" src="github-readme-stats-puce-theta.vercel.app/api/top-langs/?username=gloomyg&layout=compact&theme=material-palenight" />
+<img align="center" src="ghttps://github.com/GloomyG/github-readme-stats/api?username=gloomyg&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<img align="center" src="https://github.com/GloomyG/github-readme-stats/api/top-langs/?username=gloomyg&layout=compact&theme=material-palenight" />
 
 
