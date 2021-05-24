@@ -14,7 +14,7 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/06-facebook-256.png" alt="Omar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Facebook_social_media_logo-256.png" alt="Omar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/omar-awad-382717210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gloomygly/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 <a href="https://twitter.com/GloomyGly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
