@@ -22,7 +22,7 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 <a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Facebook_social_media_logo-256.png" alt="Omar" height="34" width="34" /></a>
 <a href="https://www.linkedin.com/in/omar-awad-382717210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gloomygly/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="33" width="43" /></a>
-<a href="https://twitter.com/GloomyGly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://twitter.com/GloomyGly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="32" width="42" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
