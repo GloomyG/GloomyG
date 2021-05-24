@@ -1,4 +1,4 @@
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.](https://goo.gl/maps/gV2fT1teCQorM6gx9)
 
 
