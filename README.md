@@ -32,10 +32,6 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 ㅤ
 ㅤ
 ㅤ
-
-ㅤ
-ㅤ
-ㅤ
 ㅤ
 ㅤ
 
