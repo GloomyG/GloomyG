@@ -4,9 +4,6 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 
 <img align="right" alt="GIF" src="https://imagehost7.online-image-editor.com/oie_upload/images/24144627Zb7N7XQQTd/2416461480uhz9JX.gif" width="450" height="450" />
 
-
-### Personal Stuffs:
-
 - 👨🏽‍💻 I'm currently working on my own website.
 - 🌱 I'm currently learning Everything 😂
 - 📌 Location : [Ålesund, Norway](https://goo.gl/maps/jja9rokThXgucP167)
