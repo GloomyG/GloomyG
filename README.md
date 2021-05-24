@@ -23,20 +23,6 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 <a href="https://www.amazon.com/Kingston-500GB-KC2000-2280-NVME/dp/B07S4WG8DS/ref=sr_1_6?dchild=1&keywords=Kingston+A2000+500GB&qid=1621866397&sr=8-6" target="blank"><img align="https://cdn0.iconfinder.com/data/icons/computer-interface-glyph/128/1-20-256.png" height="34" width="34" /></a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Facebook_social_media_logo-256.png" alt="Omar" height="34" width="34" /></a>
 <a href="https://www.linkedin.com/in/omar-awad-382717210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
