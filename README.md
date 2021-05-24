@@ -1,7 +1,7 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm [Omar](https://gloomygly.netlify.app/) a passionate, self-taught front End web developer from Palestine.
 
-  <img align="right" alt="GIF" src="https://github.com/ousszizou/ousszizou/blob/master/code.gif?raw=true" width="400" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/ousszizou/ousszizou/blob/master/code.gif?raw=true" width="300" height="120" />
 
 
 **Talking about Personal Stuffs:**
