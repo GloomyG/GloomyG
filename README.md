@@ -33,6 +33,8 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 ## Languages And Tools:
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-512.png"/> </a>
 
+<a href="https://www.w3schools.com/html/default.asp" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-512.png" alt="rahuldkjain" height="35" width="35" /></a>
+
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> </a>
 
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png"/> </a>
