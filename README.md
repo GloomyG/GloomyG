@@ -8,7 +8,7 @@ I'm [Omar](https://gloomygly.netlify.app/) a passionate, self-taught front End w
 
 - 👨🏽‍💻 I’m currently working on something cool
 - 🌱 I’m currently learning HTML5 and CSS3
-- 📌 Location : Ålesund, Norway
+- 📌 Location : [Ålesund, Norway](https://goo.gl/maps/jja9rokThXgucP167)
 - 📫 How to reach me: [@Gloomy](https://gloomygly.netlify.app/)
 
 **Languages and Tools:**  
