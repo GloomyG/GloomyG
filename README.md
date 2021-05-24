@@ -12,7 +12,7 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 - 📫 How to reach me: [@Gloomy]()
 
 <h3 align="left">My specs:</h3>
-<a href="https://www.amazon.com/ASUS-ROG-B550-F-Motherboard-Addressable/dp/B088VSTS9H/ref=sr_1_1?dchild=1&keywords=ASUS+ROG+Strix+B550-F+GAMING&qid=1621865802&sr=8-1" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/computer-hardware-574/64/MOTHERBOARD-cpu-processor-electronics-electronic-256.png" height="34" width="34" /></a>
+<a href="https://www.amazon.com/ASUS-ROG-B550-F-Motherboard-Addressable/dp/B088VSTS9H/ref=sr_1_1?dchild=1&keywords=ASUS+ROG+Strix+B550-F+GAMING&qid=1621865802&sr=8-1" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/hardware-46/64/x-03-256.png" height="34" width="34" /></a>
 <a href="https://www.amazon.com/AMD-Ryzen-3900X-24-Thread-Processor/dp/B07SXMZLP9" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/feather/24/cpu-256.png" height="34" width="34" /></a>
 <a href="https://www.amazon.com/ASUS-Overclocked-Dual-Fan-DisplayPort-DUAL-RTX2060-O6G-EVO/dp/B07R18TH1X/ref=sr_1_1?dchild=1&keywords=ASUS+GeForce+RTX+2060+DUAL+EVO+Advanced&qid=1621865455&sr=8-1" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/computer-hardware-56/70/GPU__graphiccard__hardware__technology__computer-256.png" height="34" width="34" /></a>
 <a href="https://www.amazon.com/HyperX-3200MHz-Desktop-HX432C16FB3AK2-16/dp/B07WF9M2PK/ref=sr_1_4?dchild=1&keywords=HyperX+Fury+RGB+DDR4+3200MHz+16GB&qid=1621865559&sr=8-4" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/robotics-engineering-5/66/70-256.png" height="34" width="34" /></a>
