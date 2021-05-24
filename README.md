@@ -1,5 +1,5 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm [Omar](https://gloomygly.netlify.app/) a passionate, self-taught front End web developer from [Palestine.](https://goo.gl/maps/gV2fT1teCQorM6gx9)
+I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.](https://goo.gl/maps/gV2fT1teCQorM6gx9)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/nUg011pWqiUReijzrH/giphy.gif" width="339" height="350" />
 
@@ -9,7 +9,7 @@ I'm [Omar](https://gloomygly.netlify.app/) a passionate, self-taught front End w
 - 👨🏽‍💻 I'm currently working on my own website.
 - 🌱 I'm currently learning Everything 😂
 - 📌 Location : [Ålesund, Norway](https://goo.gl/maps/jja9rokThXgucP167)
-- 📫 How to reach me: [@Gloomy](https://gloomygly.netlify.app/)
+- 📫 How to reach me: [@Gloomy]()
 
 **Languages and Tools:**  
 
