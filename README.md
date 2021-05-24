@@ -2,7 +2,7 @@
 I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.](https://goo.gl/maps/gV2fT1teCQorM6gx9)
 
 
-<img align="right" alt="GIF" src="https://imagehost7.online-image-editor.com/oie_upload/images/24144627Zb7N7XQQTd/2416461480uhz9JX.gif" width="420" height="420" />
+<img align="right" alt="GIF" src="https://imagehost7.online-image-editor.com/oie_upload/images/24144627Zb7N7XQQTd/2416461480uhz9JX.gif" width="430" height="430" />
 
 - 👨🏽‍💻 I'm currently working on my own website.
 - 🌱 I'm currently learning Everything 😂
