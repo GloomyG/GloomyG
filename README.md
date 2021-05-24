@@ -8,10 +8,6 @@ I'm [Omar](https://gloomygly.netlify.app/) a passionate, self-taught front End w
 - 📌 Location : Ålesund, Norway
 - 📫 How to reach me: [@Gloomy](https://gloomygly.netlify.app/)
 
-### Spotify Playing 🎧
-
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gloomyg Spotify Playing" width="350" />
-
 **Languages and Tools:**  
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-512.png" />
