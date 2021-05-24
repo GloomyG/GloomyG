@@ -29,6 +29,6 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 ㅤ
 
 <img align="center" src="https://github.com/gloomyg/github-readme-stats/api?username=gloomyg&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-<img align="center" src="https://github.com/gloomyg/github-readme-stats/api/top-langs/?username=gloomyg&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github.com/gloomyg/github-readme-stats/api/top-langs/?username=gloomyg&layout=compact&theme=material-palenight"/>
 
 
