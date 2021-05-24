@@ -6,7 +6,7 @@ I'm [Omar](https://gloomygly.netlify.app/) a passionate, self-taught front End w
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently working on my own website
+- 👨🏽‍💻 I'm currently working on my own website.
 - 🌱 I'm currently learning Everything 😂
 - 📌 Location : [Ålesund, Norway](https://goo.gl/maps/jja9rokThXgucP167)
 - 📫 How to reach me: [@Gloomy](https://gloomygly.netlify.app/)
