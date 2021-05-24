@@ -1,51 +1,61 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.](https://goo.gl/maps/gV2fT1teCQorM6gx9)
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/nUg011pWqiUReijzrH/giphy.gif" width="339" height="350" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/nUg011pWqiUReijzrH/giphy.gif" width="339" height="350" />
 
 
-**Talking about Personal Stuffs:**
+<h3 align="left">Personal Stuffs:</h3>
 
 - 👨🏽‍💻 I'm currently working on my own website.
 - 🌱 I'm currently learning Everything 😂
 - 📌 Location : [Ålesund, Norway](https://goo.gl/maps/jja9rokThXgucP167)
 - 📫 How to reach me: [@Gloomy]()
 
+<h3 align="left">My specs:</h3>
+<a href="https://www.amazon.com/ASUS-ROG-B550-F-Motherboard-Addressable/dp/B088VSTS9H/ref=sr_1_1?dchild=1&keywords=ASUS+ROG+Strix+B550-F+GAMING&qid=1621865802&sr=8-1" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/electronics-121/64/motherboard-256.png" height="34" width="34" /></a>
+<a href="https://www.amazon.com/AMD-Ryzen-3900X-24-Thread-Processor/dp/B07SXMZLP9" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/feather/24/cpu-256.png" height="34" width="34" /></a>
+<a href="https://www.amazon.com/ASUS-Overclocked-Dual-Fan-DisplayPort-DUAL-RTX2060-O6G-EVO/dp/B07R18TH1X/ref=sr_1_1?dchild=1&keywords=ASUS+GeForce+RTX+2060+DUAL+EVO+Advanced&qid=1621865455&sr=8-1" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/computer-hardware-56/70/GPU__graphiccard__hardware__technology__computer-256.png" height="34" width="34" /></a>
+<a href="https://www.amazon.com/HyperX-3200MHz-Desktop-HX432C16FB3AK2-16/dp/B07WF9M2PK/ref=sr_1_4?dchild=1&keywords=HyperX+Fury+RGB+DDR4+3200MHz+16GB&qid=1621865559&sr=8-4" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/robotics-engineering-5/66/70-256.png" height="34" width="34" /></a>
+<a href="https://www.amazon.com/CoolerMaster-MasterLiquid-Close-Loop-Cooler-SickleFlow/dp/B086BYYFG5/ref=sr_1_1_sspa?dchild=1&keywords=CM+Masterliquid+ML120L&qid=1621866033&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFLNlRCWk02VDRUWiZlbmNyeXB0ZWRJZD1BMDgzMTMwOTNBMk1GT0VRSlRaNUwmZW5jcnlwdGVkQWRJZD1BMDgyOTYzNUJVWVFSVEQ2WDVYMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/electronics-121/64/cooler-256.png" height="34" width="34" /></a>
+<a href="https://www.amazon.com/Seasonic-SSR-650FX-Modular-Warranty-Compact/dp/B073H33X7R/ref=sr_1_1?dchild=1&keywords=seasonic+core+gx+550w&qid=1621866185&sr=8-1" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/computer-hardware-574/64/POWER_SUPPLY-power-supply-electronics-energy-256.png" height="34" width="34" /></a>
+<a href="https://www.amazon.com/Seagate-BarraCuda-Internal-Drive-3-5-Inch/dp/B07H2RR55Q/ref=sr_1_1_sspa?dchild=1&keywords=Seagate+BarraCuda+1TB&qid=1621866306&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQTQwU1I2T00wWVBHJmVuY3J5cHRlZElkPUEwMTExNTIzMlRKOEQ1TzBTRUxXNSZlbmNyeXB0ZWRBZElkPUEwOTYwNDY3MURMVlhRSE9aNFpZOCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/electronics-121/64/hdd-256.png" height="34" width="34" /></a>
+<h3 align="left">My specs:</h3>
+<a href="https://www.amazon.com/Kingston-500GB-KC2000-2280-NVME/dp/B07S4WG8DS/ref=sr_1_6?dchild=1&keywords=Kingston+A2000+500GB&qid=1621866397&sr=8-6" target="blank"><img align="https://cdn0.iconfinder.com/data/icons/computer-interface-glyph/128/1-20-256.png" height="34" width="34" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Facebook_social_media_logo-256.png" alt="Omar" height="34" width="34" /></a>
 <a href="https://www.linkedin.com/in/omar-awad-382717210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gloomygly/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 <a href="https://twitter.com/GloomyGly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
 
 
-**Languages and Tools:**  
-
+<h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-512.png"/> </a>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> </a>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png"/> </a>
 <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"/> </a>
-
 <a href="https://code.visualstudio.com/download" target="_blank"> <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/> </a>
 ㅤ
 ㅤ
 ㅤ
 ㅤ
 ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-
-**📈 My Stats**
+<h3 align="left">📈 My Stats:</h3>
 
 <img align="center" src="https://github-readme-stats-gloomyg.vercel.app/api?username=gloomyg&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Omar's github stats" />
 <img align="center" src="https://github-readme-stats-gloomyg.vercel.app/api/top-langs/?username=gloomyg&layout=compact&theme=material-palenight" />
-
-
