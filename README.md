@@ -1,7 +1,7 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm [Omar](https://gloomygly.netlify.app/) a passionate, self-taught front End web developer from Palestine.
 
-  <img align="right" alt="GIF" src="https://i.gifer.com/Ry6p.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="<iframe src="https://gifer.com/embed/Ry6p" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>" width="500" height="320" />
 
 
 **Talking about Personal Stuffs:**
