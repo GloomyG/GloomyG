@@ -17,7 +17,7 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 <a href="https://www.amazon.com/HyperX-3200MHz-Desktop-HX432C16FB3AK2-16/dp/B07WF9M2PK/ref=sr_1_4?dchild=1&keywords=HyperX+Fury+RGB+DDR4+3200MHz+16GB&qid=1621865559&sr=8-4" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/robotics-engineering-5/66/70-256.png" height="28" width="28" /></a>
 
 
-## Connect with me:
+#### Connect with me:
 <a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Facebook_social_media_logo-256.png" alt="Omar" height="34" width="34" /></a>
 <a href="https://www.linkedin.com/in/omar-awad-382717210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gloomygly/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="33" width="43" /></a>
