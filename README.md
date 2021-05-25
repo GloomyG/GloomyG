@@ -10,7 +10,7 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 - 📫 How to reach me: [@Gloomy]()
 
 
-## My Specs:
+### My Specs:
 <a href="https://www.amazon.com/ASUS-ROG-B550-F-Motherboard-Addressable/dp/B088VSTS9H/ref=sr_1_1?dchild=1&keywords=ASUS+ROG+Strix+B550-F+GAMING&qid=1621865802&sr=8-1" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/computer-hardware-572/60/motherboard__circuit__computer__hardware-256.png" height="40" width="40" /></a>
 ㅤ
 <a href="https://www.amazon.com/AMD-Ryzen-3900X-24-Thread-Processor/dp/B07SXMZLP9" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/feather/24/cpu-256.png" height="40" width="40" /></a>
@@ -20,7 +20,7 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 <a href="https://www.amazon.com/HyperX-3200MHz-Desktop-HX432C16FB3AK2-16/dp/B07WF9M2PK/ref=sr_1_4?dchild=1&keywords=HyperX+Fury+RGB+DDR4+3200MHz+16GB&qid=1621865559&sr=8-4" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/robotics-engineering-5/66/70-256.png" height="40" width="40" /></a>
 
 
-## Connect With Me:
+### Connect With Me:
 <a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Facebook_social_media_logo-256.png" alt="Omar" height="35" width="35" /></a>
 ㅤ
 <a href="https://www.linkedin.com/in/omar-awad-382717210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="35" width="35" /></a>
@@ -30,7 +30,7 @@ I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.]
 <a href="https://twitter.com/GloomyGly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="35" width="35" /></a>
 
 
-## Languages And Tools:
+### Languages And Tools:
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-512.png"/> </a>
 ㅤ
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> </a>
