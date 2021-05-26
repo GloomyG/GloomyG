@@ -1,7 +1,7 @@
 ## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.](https://goo.gl/maps/gV2fT1teCQorM6gx9)
 
-<img align="right" alt="GIF" src="https://data.whicdn.com/images/244793515/original.gif" width="300" height="300" />
+<img align="right" alt="GIF" src="https://data.whicdn.com/images/244793515/original.gif" width="430" height="430" />
 
 
 - 👨🏽‍💻 I'm currently working on my own website.
