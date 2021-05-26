@@ -1,6 +1,6 @@
 ## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm [Omar]() a passionate, self-taught front End web developer from [Palestine.](https://goo.gl/maps/gV2fT1teCQorM6gx9)
-<img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pSxjjudj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.ya-webdesign.com/images/welcome-gif-png-15.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pSxjjudj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.ya-webdesign.com/images/welcome-gif-png-15.gif" width="400" height="250" />
 
 
 - 👨🏽‍💻 I'm currently working on my own website.
