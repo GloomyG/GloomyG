@@ -25,7 +25,7 @@ I'm [Omar]() a passionate, self-taught front End web developer from Palestine.
 ㅤ
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png"/> </a>
 ㅤ
-<a href="https://www.w3schools.com/java/default.asp" target="_blank"> <img align="left" alt="Java" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png"/> </a>ㅤ
+<a href="https://www.w3schools.com/java/default.asp" target="_blank"> <img align="left" alt="Java" width="26px" src="https://camo.githubusercontent.com/f2e55992ca80a5e95192891e0a5027243789561975b6bceb31437b3f6ad1d1da/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2e706e67"/> </a>ㅤ
 ㅤ
 <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"/> </a>
 ㅤ
