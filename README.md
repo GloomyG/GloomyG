@@ -9,13 +9,13 @@ I'm [Omar]() a passionate, self-taught front End web developer from Palestine.
 
 
 ### Connect With Me:
-<a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-free-13/32/Facebook_social_media_logo-256.png"/> </a>
+<a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png"/> </a>
 ㅤ
-<a href="https://www.linkedin.com/in/omar-awad-382717210/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/> </a>
+<a href="https://www.linkedin.com/in/omar-awad-382717210/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-256.png"/> </a>
 ㅤ
-<a href="https://www.instagram.com/gloomygly/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain"/> </a>
+<a href="https://www.instagram.com/gloomygly/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" alt="rahul_dk_jain"/> </a>
 ㅤ
-<a href="https://twitter.com/GloomyGly" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"/> </a>
+<a href="https://twitter.com/GloomyGly" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/24-twitter_tweet-256.png"/> </a>
 
 
 ### Languages And Tools:
