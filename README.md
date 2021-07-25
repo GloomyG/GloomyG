@@ -3,7 +3,7 @@ I'm [Omar]() a passionate, self-taught front End web developer from Palestine.
 
 
 - 👨🏽‍💻 I'm currently working on my own website.
-- 🌱 I'm currently learning Everything
+- 🌱 I'm currently HTML And CSS.
 - 📌 Location : Ålesund, Norway
 - 📫 How to reach me: [@Gloomy]()
 
