@@ -1,12 +1,10 @@
 ## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm [Omar]() a passionate, self-taught front End web developer from Palestine.
+I'm Omar a passionate, self-taught front End web developer from Palestine.
 
 
 - 👨🏽‍💻 I'm currently working on my own website.
-- 🌱 I'm currently HTML5 And CSS3.
+- 🌱 🌱 Currently learning HTML5 And CSS3.
 - 📌 Location : Ålesund, Norway
-- 📫 How to reach me: [@Gloomy]()
-
 
 ### Connect With Me:
 <a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-var-1/614/2_-_Facebook-256.png"/> </a>
