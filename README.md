@@ -23,7 +23,7 @@
 <a href="https://spring.io/" target="_blank"> <img align="left" alt="Springboot" width="26px" src="https://cdn-images-1.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootsrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/> </a>
 <a href="https://code.visualstudio.com/download" target="_blank"> <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/> </a>
-<a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank"> <img align="left" alt="IntelliJ" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png"/> </a>
+<a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank"> <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/> </a>
 <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"/> </a>
 
