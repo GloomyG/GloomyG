@@ -13,7 +13,7 @@
 [<img align="left" alt="Imad Fayad | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
-ㅤ
+
 
 ### Languages And Tools:
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-512.png"/> </a>
