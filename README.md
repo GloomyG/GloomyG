@@ -1,7 +1,7 @@
 ## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 👨🏽‍💻 I'm currently working on my own website.
-- 🌱 🌱 Currently learning HTML5 And CSS3.
+- 🌱 Currently learning HTML5 And CSS3.
 - 📌 Location : Ålesund, Norway
 
 ### Connect With Me:
