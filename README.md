@@ -7,8 +7,6 @@ I'm Omar a passionate, self-taught front End web developer from Palestine.
 - 📌 Location : Ålesund, Norway
 
 ### Connect With Me:
-<a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-var-1/614/2_-_Facebook-256.png"/> </a>
-ㅤ
 <a href="https://www.linkedin.com/in/omar-awad-382717210/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"/> </a>
 ㅤ
 <a href="https://www.instagram.com/gloomygly/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" alt="rahul_dk_jain"/> </a>
