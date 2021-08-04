@@ -17,7 +17,6 @@ I'm Omar a passionate, self-taught front End web developer from Palestine.
 
 
 ### Languages And Tools:
-### Languages And Tools:
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-512.png"/> </a>
 ㅤ
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> </a>
