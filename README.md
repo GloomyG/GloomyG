@@ -1,15 +1,19 @@
-## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm Omar a passionate, self-taught front End web developer from Palestine.
+## Yahallo, I'm Imad 👋
 
+- 🔭 I'm a computer technology student at OsloMet University
+- 🌱 Currently learning Javascript 
+- 🎯 My goal is to become a front-end web developer 
+- 📌 Location : Oslo, Norway
+- 📺 Fun fact: I love watching anime ^_^
 
-- 👨🏽‍💻 I'm currently working on my own website.
-- 🌱 🌱 Currently learning HTML5 And CSS3.
-- 📌 Location : Ålesund, Norway
+### Connect with me:
+[<img align="left" alt="Imad Fayad | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/174/174848.png" />][facebook]
+[<img align="left" alt="imadosan | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174876.png" />][twitter]
+[<img align="left" alt="imadosan | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="Imad Fayad | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
-### Connect With Me:
-<a href="https://www.facebook.com/people/Omar-Awad/100055771436254" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-var-1/614/2_-_Facebook-256.png"/> </a>
-<a href="https://www.linkedin.com/in/omar-awad-382717210/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"/> </a>
-<a href="https://www.instagram.com/gloomygly/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" alt="rahul_dk_jain"/> </a>
+<br />
+
 ㅤ
 
 ### Languages And Tools:
@@ -25,3 +29,7 @@ I'm Omar a passionate, self-taught front End web developer from Palestine.
 <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"/> </a>
 
 
+[facebook]: https://www.facebook.com/imad.fayad.562/
+[twitter]: https://twitter.com/imadosan
+[instagram]: https://www.instagram.com/imadosan/
+[linkedin]: https://www.linkedin.com/in/imad-fayad-5511721b9/
