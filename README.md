@@ -24,6 +24,3 @@
 <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"/> </a>
 ㅤ
 <a href="https://code.visualstudio.com/download" target="_blank"> <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/> </a>
-
-### My Stats:
-<img align="center" src="https://github-readme-stats-gloomyg.vercel.app/api?username=gloomyg&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Omar's github stats" /> <img align="center" src="https://github-readme-stats-gloomyg.vercel.app/api/top-langs/?username=gloomyg&layout=compact&theme=material-palenight" />
