@@ -6,7 +6,7 @@
 
 
 ### Connect With Me:
-<a href="https://www.facebook.com/profile.php?id=100055771436254&sk=friends" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png"/> </a>
+<a href="https://www.facebook.com/profile.php?id=100055771436254&sk=friends" target="_blank"> <img align="left" alt="HTML5" width="28px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png"/> </a>
 
 <a href="https://www.linkedin.com/in/omar-awad-382717210/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"/> </a>
 ㅤ
