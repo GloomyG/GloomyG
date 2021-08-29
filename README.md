@@ -11,6 +11,7 @@
 ㅤ
 <a href="https://twitter.com/GloomyGly" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/24-twitter_tweet-256.png"/> </a>
 
+<a href="https://www.facebook.com/profile.php?id=100055771436254&sk=friends" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg"/> </a>
 
 ### Languages And Tools:
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-512.png"/> </a>
